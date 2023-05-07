@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "E:\\WorkingFolder\\MoneyDivider\\backend\\dist\\logs\\error\\.f7aa51934f4ad5b522aaeac5abd2e65c5c9d3229-audit.json",
+    "files": [
+        {
+            "date": 1682475189735,
+            "name": "E:\\WorkingFolder\\MoneyDivider\\backend\\dist\\logs\\error\\2023-04-26.log",
+            "hash": "de436403d392788087045a62ab9d004235d1086eaf0501fee169104f7b120ed9"
+        },
+        {
+            "date": 1682761587840,
+            "name": "E:\\WorkingFolder\\MoneyDivider\\backend\\dist\\logs\\error\\2023-04-29.log",
+            "hash": "6d89612cdae2e0f778908ac13d0244da63bd9f1bba31c0860886a98c44c9b05e"
+        },
+        {
+            "date": 1682838159728,
+            "name": "E:\\WorkingFolder\\MoneyDivider\\backend\\dist\\logs\\error\\2023-04-30.log",
+            "hash": "2ee8f760c6bfb245cfc6275bc3677998510dc608638aebda0af488530299025f"
+        },
+        {
+            "date": 1683128360632,
+            "name": "E:\\WorkingFolder\\MoneyDivider\\backend\\dist\\logs\\error\\2023-05-03.log",
+            "hash": "3003a1b2525b9bfecf1e9979b6f99f8e834c1923583e6eaf43bd6230432f2850"
+        }
+    ],
+    "hashType": "sha256"
+}
